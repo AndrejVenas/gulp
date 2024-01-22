@@ -1,4 +1,4 @@
-# gulp
+# GULP
 What does this Gulp file do?
 
 -Compile SCSS (Sass)
@@ -14,12 +14,12 @@ How use:
 
 1. Download all files from these repositories into the folder where the new project will be.
 Open terminal in this folder and write comand:
-	npm i
+`npm i`
 
 Gulp downloads all the necessary files required for the project to function.
 
 2.For starting the development, in the terminal, write the command:
-	gulp
+`gulp`
 Afterward, Gulp starts working and automatically opens a web page in your browser.
 
 You can write your code in files:
@@ -31,8 +31,8 @@ images: put your images in folder *your-project*/app/images/src
 fonts:  put your fonts in folder *your-project*/app/fonts/src
 
 3.After finishing development, create an SVG sprite and make the necessary changes to your HTML and SCSS files:
-	gulp sprite
+`gulp sprite`
 
 4.Afterward, end the project by command.
-	gulp build
+`gulp build`
 In folder *your-project*/dist will all files of your project
