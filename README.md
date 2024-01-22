@@ -1,13 +1,13 @@
 # GULP
 What does this Gulp file do?
 
--Compile SCSS (Sass)
--Optimize images and convert them to the "webp" and "avif" formats
--Set up a development server
--Convert fonts to the "woff" and "woff2" formats
--Combine SVG files into one SVG sprite
--Generate prefixes for new styles or to support older version browsers
--Minifying css and js files
++ Compile SCSS (Sass)
++ Optimize images and convert them to the "webp" and "avif" formats
++ Set up a development server
++ Convert fonts to the "woff" and "woff2" formats
++ Combine SVG files into one SVG sprite
++ Generate prefixes for new styles or to support older version browsers
++ Minifying css and js files
 
 How use:
 !!!Node.js must be installed on your computer!!!
